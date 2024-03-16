@@ -1,5 +1,5 @@
-Origin: Test
-Label: Test
+Origin: com.spooferpro.jb_0.289_iphoneos-arm64e.deb
+Label: com.spooferpro.jb_0.289_iphoneos-arm64e.deb
 Suite: stable
 Version: 1.0
 Codename: ios
